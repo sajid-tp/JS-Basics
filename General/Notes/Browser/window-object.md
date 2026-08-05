@@ -43,8 +43,7 @@ These APIs let JavaScript:
 - Change text
 - Change styles
 - Listen for events on the document
-- Relationship between them
-  
+### Relationship between them
 ```text
 Browser
    │
