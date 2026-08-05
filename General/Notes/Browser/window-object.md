@@ -23,6 +23,7 @@ setTimeout(...);      // Same as window.setTimeout(...)
 fetch(...);           // Same as window.fetch(...)
 document object
 ```
+### document object
 The document object represents the web page (DOM) currently loaded in the browser.
 
 It provides APIs for working with HTML elements.
@@ -43,6 +44,7 @@ These APIs let JavaScript:
 - Change styles
 - Listen for events on the document
 - Relationship between them
+  
 ```text
 Browser
    │
