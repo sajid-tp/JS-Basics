@@ -3,7 +3,7 @@
 Object.fromEntries() is a built-in JavaScript method that converts a list of key-value pairs into a normal JavaScript object.
 
 Basic example
-```
+```javascript
 const entries = [
   ["name", "Sajid"],
   ["age", 25],
