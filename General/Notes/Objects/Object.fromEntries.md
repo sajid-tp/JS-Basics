@@ -15,7 +15,7 @@ const obj = Object.fromEntries(entries);
 console.log(obj);
 ```
 Result:
-```
+```javascript
 {
   name: "Sajid",
   age: 25,
@@ -25,14 +25,14 @@ Result:
 Think of it like this
 
 It converts:
-```
+```javascript
 [
   ["name", "Sajid"],
   ["age", 25]
 ]
 ```
 into:
-```
+```javascript
 {
   name: "Sajid",
   age: 25
